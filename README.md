@@ -8,3 +8,4 @@ https://github.com/s0hv/rust-imgur-upload/releases/download/0.2.1/imgur-uploader
 these 2 programs are downloaded when the script is executed
 
 Instructions: download script and execute it i only made this for KDE plasma idk what would happen if you installed it on something else
+you only need to get the install script to install it the uninstall wipes every file it installed
